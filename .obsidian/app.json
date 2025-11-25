@@ -1,1 +1,8 @@
-{}
+{
+  "strictLineBreaks": false,
+  "showInlineTitle": true,
+  "readableLineLength": true,
+  "showLineNumber": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Assets"
+}

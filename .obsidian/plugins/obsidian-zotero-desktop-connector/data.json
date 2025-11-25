@@ -5,8 +5,18 @@
   "pdfExportImageFormat": "jpg",
   "pdfExportImageQuality": 90,
   "citeFormats": [],
-  "exportFormats": [],
+  "exportFormats": [
+    {
+      "name": "Paper Note",
+      "outputPathTemplate": "Research/Papers/{{citekey}}.md",
+      "imageOutputPathTemplate": "_assets/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "cslStyle": "apa",
+      "templatePath": "_templates/paper-template.md"
+    }
+  ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
   "openNoteAfterImport": true,
-  "whichNotesToOpenAfterImport": "first-imported-note"
+  "whichNotesToOpenAfterImport": "all-imported-notes",
+  "shouldConcat": true
 }

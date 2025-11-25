@@ -1,0 +1,34 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": false,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "firstWeekday": {
+    "index": 1,
+    "name": "Monday",
+    "shortName": "Mo"
+  },
+  "syncInterval": 200,
+  "enableJs": true,
+  "viewFieldDisplayNullAsEmpty": false,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [],
+  "buttonTemplates": [
+    {
+      "label": "Update literature note",
+      "hidden": false,
+      "tooltip": "This will fetch new annotations from Zotero",
+      "id": "update-litnote",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "templater-obsidian:_template/runImport.md"
+        }
+      ]
+    }
+  ],
+  "excludedFolders": [
+    "templates"
+  ]
+}

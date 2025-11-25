@@ -1,6 +1,6 @@
 [
-  "obsidian-git",
-  "obsidian-excalidraw-plugin",
   "obsidian-zotero-desktop-connector",
-  "obsidian-style-settings"
+  "templater-obsidian",
+  "obsidian-pandoc-reference-list",
+  "obsidian-meta-bind-plugin"
 ]

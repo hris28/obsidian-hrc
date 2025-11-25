@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "82213cee1187acc0",
+        "id": "93a9a909043b43df",
         "type": "tabs",
         "children": [
           {
-            "id": "f80008b559a9a87e",
+            "id": "8e9a42804af89c55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/All Papers.md",
+                "file": "Research/Papers/Michino2025AIMeetsPhysicsComputationala.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "All Papers"
+              "title": "Michino2025AIMeetsPhysicsComputationala"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/All Papers.md",
+                "file": "DND/Mithe Demacia Khol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for All Papers"
+              "title": "Backlinks for Mithe Demacia Khol"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/All Papers.md",
+                "file": "Research/Papers/How A.I. and Social Media Contribute to ‘Brain Rot’.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from All Papers"
+              "title": "Outgoing links from How A.I. and Social Media Contribute to ‘Brain Rot’"
             }
           },
           {
@@ -156,16 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/All Papers.md",
+                "file": "DND/Mithe Demacia Khol.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of All Papers"
+              "title": "Outline of Mithe Demacia Khol"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,21 +175,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "bc303b8c91c301af",
+  "active": "8e9a42804af89c55",
   "lastOpenFiles": [
-    "Notes",
+    "Research/Papers/Michino2025AIMeetsPhysicsComputationala.md",
+    "_templates/paper-template.md",
+    "Notes/Zotero Integration Template Explanation.md",
+    "Research/Papers/Wu2022UBrainUnaryBrainComputer.md",
+    "Research/Papers/Li2024CombiningVRElectroencephalographyFrontier.md",
+    "_templates/literature-note.md",
+    "_templates/runImport.md",
+    "Research/Papers/Costello2023BalancingMemorizationGeneralizationRNNs.md",
+    "_templates/paper-temp.md",
+    "Research/Papers/Musk2019IntegratedBrainMachineInterfacePlatform.md",
+    "Research/Papers/Moons2015TransparentReportingMultivariablePrediction.md",
+    "Research/Papers/Kiss2021NeuronalDopamineD3Receptors.md",
+    "Research/Papers/How A.I. and Social Media Contribute to ‘Brain Rot’.md",
+    "Research/Papers/Eichler2021MasterMindManyAcceleratorSoCArchitecture.md",
+    "_templates/{{desktopURI}}.md",
+    "Research/Papers/Eichler2025EnergyEfficientKalmanFilterArchitecture.md",
+    "Research/Papers/Khadka2025DREAMSPythonFrameworkTraining.md",
+    "Assets/literature-note.md",
+    "Assets",
+    "_templates/Zotero Integration Template.md",
+    "Research/Papers/The Editor Got a Letter From ‘Dr. B.S.’ So Did a Lot of Other Editors..md",
+    "_templates",
+    "_assets",
+    "DND/Mithe Demacia Khol.md",
     "Research/All Papers.md",
+    "DND",
+    "Notes",
     "Research/Papers",
     "Classes",
     "Research"
