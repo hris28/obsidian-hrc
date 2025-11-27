@@ -2,7 +2,7 @@
   "strictLineBreaks": false,
   "showInlineTitle": true,
   "readableLineLength": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "Assets"
+  "attachmentFolderPath": "_assets"
 }
