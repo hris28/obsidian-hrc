@@ -8,49 +8,223 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e9a42804af89c55",
+            "id": "39d3625c1391d8ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/AI - How it works.md",
+                "file": "Research/Papers/AI-effect-on-Language/Galpin2025ExploringStructureAIInducedLanguage.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "AI - How it works"
+              "title": "Galpin2025ExploringStructureAIInducedLanguage"
             }
           },
           {
-            "id": "a1fe13222b8bf7a0",
+            "id": "034b9941108b8ca1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Papers/Khadka2025DREAMSPythonFrameworkTraining.md",
+                "file": "Research/Papers/moreAIpapers/Wu2022UBrainUnaryBrainComputer.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Khadka2025DREAMSPythonFrameworkTraining"
+              "title": "Wu2022UBrainUnaryBrainComputer"
             }
           },
           {
-            "id": "fb2b07170115aaa8",
+            "id": "52518abcdf25f0fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI_PostTask_Questionnaire.qsf.md",
+                "file": "Untitled.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "AI_PostTask_Questionnaire.qsf"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "8b153e069553f8ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/AI-influenced-language/0_Inbox.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "0_Inbox"
+            }
+          },
+          {
+            "id": "ce3f73e2ec02d5ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/AI-influenced-language/1_TitleAbstract_Screen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1_TitleAbstract_Screen"
+            }
+          },
+          {
+            "id": "e527a7e294f9da3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/AI-influenced-language/2_FullText_Screen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2_FullText_Screen"
+            }
+          },
+          {
+            "id": "9d39712f41a9b9a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/AI-influenced-language/3_Included_Core.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "3_Included_Core"
+            }
+          },
+          {
+            "id": "df31951ee4cb3653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/AI-influenced-language/4_Excluded.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "4_Excluded"
+            }
+          },
+          {
+            "id": "158e4db34ace1de4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/AI-influenced-language/5_Precursor_Pre2022.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "5_Precursor_Pre2022"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -118,25 +292,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7570e49ce7314dae",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "DND/Mithe Demacia Khol.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Mithe Demacia Khol"
-            }
-          },
-          {
             "id": "226d1a6d6df8e500",
             "type": "leaf",
             "state": {
@@ -194,8 +349,7 @@
               "title": "Outline of Mithe Demacia Khol"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,45 +365,50 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "bc303b8c91c301af",
+  "active": "158e4db34ace1de4",
   "lastOpenFiles": [
-    "AI_PostTask_Questionnaire.qsf.md",
-    "AI_Questionnaire.csv.md",
-    "Research/Papers/Khadka2025DREAMSPythonFrameworkTraining.md",
-    "Research/Papers/Costello2023BalancingMemorizationGeneralizationRNNs.md",
-    "Research/Papers/Eichler2025EnergyEfficientKalmanFilterArchitecture.md",
-    "Research/Papers/Kiss2021NeuronalDopamineD3Receptors.md",
-    "_templates/paper-template.md",
-    "Research/Papers/Wu2022UBrainUnaryBrainComputer.md",
-    "Notes/Obsidian Help.md",
-    "Notes/AI - How it works.md",
-    "Research/Papers/Li2024CombiningVRElectroencephalographyFrontier.md",
-    "Notes/Zotero Integration Template Explanation.md",
-    "_templates/literature-note.md",
-    "_assets/Pasted image 20251125120206.png",
-    "Assets",
-    "Research/Papers/Michino2025AIMeetsPhysicsComputationala.md",
+    "Research/AI-influenced-language/4_Excluded.md",
+    "Research/AI-influenced-language/5_Precursor_Pre2022.md",
+    "Research/AI-influenced-language/3_Included_Core.md",
+    "Research/AI-influenced-language/2_FullText_Screen.md",
+    "Research/AI-influenced-language/1_TitleAbstract_Screen.md",
+    "Research/AI-influenced-language/0_Inbox.md",
+    "Untitled.md",
+    "Research/Papers/moreAIpapers/Wu2022UBrainUnaryBrainComputer.md",
+    "Untitled",
+    "Research/AI-influenced-language",
+    "Research/Papers/moreAIpapers/The Editor Got a Letter From ‘Dr. B.S.’ So Did a Lot of Other Editors..md",
+    "Research/Papers/moreAIpapers/Eichler2021MasterMindManyAcceleratorSoCArchitecture.md",
+    "Research/Papers/moreAIpapers",
+    "Research/Papers/AI-effect-on-Language/Anderson2025ModelMisalignmentLanguageChange.md",
+    "Research/Papers/AI-effect-on-Language/Dey2025AIQuietlyReshapingWay.md",
+    "Research/Papers/AI-effect-on-Language/Galpin2025ExploringStructureAIInducedLanguage.md",
+    "Research/Papers/AI-effect-on-Language/Harris2025OnscreenNowIRLFSU.md",
+    "Research/Papers/moreAIpapers/Costello2023BalancingMemorizationGeneralizationRNNs.md",
+    "Research/Papers/AI-effect-on-Language/RamirezChatGPTChangingWordsWe.md",
+    "Research/Papers/AI-effect-on-Language/Provencher2025CreatingCommonLanguage.md",
+    "Research/Papers/AI-effect-on-Language/PhD2025AuthenticityDeficitAIDiluting.md",
+    "Research/Papers/AI-effect-on-Language/Hohenstein2023ArtificialIntelligenceCommunicationImpacts.md",
+    "Research/Papers/AI-effect-on-Language/Gent2024DroidspeakAIAgentsNow.md",
+    "Research/Papers/AI-effect-on-Language/App2025HowAIShapesWay.md",
+    "Research/Papers/AI-effect-on-Language/2025NewReportRevealsChatGPTsa.md",
+    "Research/Papers/AI-effect-on-Language/2025LanguageCreationArtificialIntelligence.md",
     "_templates/runImport.md",
-    "_templates/paper-temp.md",
-    "Research/Papers/Musk2019IntegratedBrainMachineInterfacePlatform.md",
-    "Research/Papers/Moons2015TransparentReportingMultivariablePrediction.md",
-    "Research/Papers/How A.I. and Social Media Contribute to ‘Brain Rot’.md",
-    "Research/Papers/Eichler2021MasterMindManyAcceleratorSoCArchitecture.md",
-    "_templates/{{desktopURI}}.md",
-    "Assets/literature-note.md",
-    "_templates/Zotero Integration Template.md",
-    "Research/Papers/The Editor Got a Letter From ‘Dr. B.S.’ So Did a Lot of Other Editors..md",
-    "_templates",
-    "_assets",
-    "DND/Mithe Demacia Khol.md",
-    "Research/All Papers.md",
-    "DND",
-    "Notes",
-    "Research/Papers",
-    "Classes",
-    "Research"
+    "_templates/paper-template.md",
+    "Research/Papers/AI-effect-on-Language/Anderson et al. - 2025 - Model Misalignment and Language Change Traces of AI-Associated Language in Unscripted Spoken Englis.pdf",
+    "Research/Papers/moreAIpapers/How A.I. and Social Media Contribute to ‘Brain Rot’.md",
+    "Research/Papers/AI-effect-on-Language/files/144/report-reveals-chatgpt-distinctive-vocabulary-153529518.html",
+    "Research/Papers/AI-effect-on-Language/Hohenstein et al. - 2023 - Artificial intelligence in communication impacts language and social relationships.pdf",
+    "Research/Papers/AI-effect-on-Language/files/139/if-ai-speaks-its-own-language-9a4c3c6626c8.html",
+    "Research/Papers/AI-effect-on-Language/files/137/index.html",
+    "Research/Papers/AI-effect-on-Language/files/134/ai-is-quietly-reshaping-the-way-we-talk.html",
+    "Research/Papers/AI-effect-on-Language/files/132/2508.html",
+    "_assets/Pasted image 20251212101326.png",
+    "_assets/Pasted image 20251212101321.png",
+    "_assets/Pasted image 20251125120206.png"
   ]
 }

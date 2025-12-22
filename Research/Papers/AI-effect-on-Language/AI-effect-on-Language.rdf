@@ -1,0 +1,664 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Document rdf:about="https://arxiv.org/html/2506.21817v1">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Galpin</foaf:surname>
+                        <foaf:givenName>Riley</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anderson</foaf:surname>
+                        <foaf:givenName>Bryce</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Juzek</foaf:surname>
+                        <foaf:givenName>Tom S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_114"/>
+        <link:link rdf:resource="#item_119"/>
+        <dc:subject>AI-lang</dc:subject>
+        <dc:title>Exploring the Structure of AI-Induced Language Change in Scientific English</dc:title>
+        <dc:date>26 Jun 2025</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/html/2506.21817v1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 21:55:55</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_114">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/114/2506.html"/>
+        <dc:title>Exploring the Structure of AI-Induced Language Change in Scientific English</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/html/2506.21817v1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 21:56:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_119">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/119/Galpin et al. - 2025 - Exploring the Structure of AI-Induced Language Change in Scientific English.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://news.mit.edu/2025/creating-common-language-kaiming-he-0207">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+                <dc:title>MIT News | Massachusetts Institute of Technology</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Provencher</foaf:surname>
+                        <foaf:givenName>Kaitlin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_118"/>
+        <dc:subject>AI-lang</dc:subject>
+        <dc:title>Creating a common language</dc:title>
+        <dcterms:abstract>MIT Associate Professor Kaiming He discusses the role of AI in interdisciplinary collaborations, connecting basic science to artificial intelligence, machine learning, and neural networks.</dcterms:abstract>
+        <dc:date>2025-02-07</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://news.mit.edu/2025/creating-common-language-kaiming-he-0207</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 21:59:14</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_118">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/118/creating-common-language-kaiming-he-0207.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://news.mit.edu/2025/creating-common-language-kaiming-he-0207</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 21:59:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://medium.com/@adnanmasood/the-authenticity-deficit-is-ai-diluting-your-voice-54bd53afe01b">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Medium</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>PhD</foaf:surname>
+                        <foaf:givenName>Adnan Masood</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_121"/>
+        <dc:title>The Authenticity Deficit: Is AI Diluting Your Voice</dc:title>
+        <dcterms:abstract>It Is Important to Note That I Can No Longer Note How Important Anything Is -Investigation into Moreover, Furthermore, and Additionally…</dcterms:abstract>
+        <dc:date>2025-09-17T10:34:59.553Z</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>The Authenticity Deficit</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://medium.com/@adnanmasood/the-authenticity-deficit-is-ai-diluting-your-voice-54bd53afe01b</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:09:19</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_121">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/121/the-authenticity-deficit-is-ai-diluting-your-voice-54bd53afe01b.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://medium.com/@adnanmasood/the-authenticity-deficit-is-ai-diluting-your-voice-54bd53afe01b</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:09:30</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.scientificamerican.com/article/chatgpt-is-changing-the-words-we-use-in-conversation/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Scientific American</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ramirez</foaf:surname>
+                        <foaf:givenName>Vanessa Bates</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_123"/>
+        <dc:title>ChatGPT Is Changing the Words We Use in Conversation</dc:title>
+        <dcterms:abstract>Words frequently used by ChatGPT, including “delve” and “meticulous,” are getting more common in spoken language, according to an analysis of more than 700,000 hours of videos and podcasts</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scientificamerican.com/article/chatgpt-is-changing-the-words-we-use-in-conversation/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:09:44</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_123">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/123/chatgpt-is-changing-the-words-we-use-in-conversation.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scientificamerican.com/article/chatgpt-is-changing-the-words-we-use-in-conversation/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:09:55</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://stryng.io/how-ai-shapes-the-way-we-speak-today/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>App</foaf:surname>
+                        <foaf:givenName>Stryng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_125"/>
+        <dc:title>How AI Shapes the Way We Speak Today</dc:title>
+        <dcterms:abstract>Patterns and words, once typical to AI, are starting to show up in human speech. This shift brings up questions about how AI affect language in general.</dcterms:abstract>
+        <dc:date>2025-03-11T16:01:30+00:00</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://stryng.io/how-ai-shapes-the-way-we-speak-today/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:10:00</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_125">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/125/how-ai-shapes-the-way-we-speak-today.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://stryng.io/how-ai-shapes-the-way-we-speak-today/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:10:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.reddit.com/r/linguistics/comments/1lx888g/chatgpt_is_changing_the_words_we_use_in/">
+        <z:itemType>forumPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Forum><dc:title>r/linguistics</dc:title></z:Forum>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>scientificamerican</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>ChatGPT is changing the words we use in conversation</dc:title>
+        <dc:date>2025-07-11T14:24:01.000Z</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.reddit.com/r/linguistics/comments/1lx888g/chatgpt_is_changing_the_words_we_use_in/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:10:25</dcterms:dateSubmitted>
+        <z:type>Reddit Post</z:type>
+    </bib:Document>
+    <bib:Document rdf:about="https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Florida State University News</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Harris</foaf:surname>
+                        <foaf:givenName>McKenzie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Haughney</foaf:surname>
+                        <foaf:givenName>Kathleen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_128"/>
+        <dc:title>On-screen and now IRL: FSU researchers find evidence of ChatGPT buzzwords turning up in everyday speech</dc:title>
+        <dcterms:abstract>Within five days of ChatGPT’s release in 2022, the artificial intelligence chatbot gained more than a million users. Today, more than half of all adults</dcterms:abstract>
+        <dc:date>2025-08-26T19:27:34+00:00</dc:date>
+        <z:language>en-US</z:language>
+        <z:shortTitle>On-screen and now IRL</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:11:09</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_128">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/128/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:11:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2508.00238">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anderson</foaf:surname>
+                        <foaf:givenName>Bryce</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Galpin</foaf:surname>
+                        <foaf:givenName>Riley</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Juzek</foaf:surname>
+                        <foaf:givenName>Tom S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_130"/>
+        <link:link rdf:resource="#item_131"/>
+        <link:link rdf:resource="#item_132"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Computation and Language</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Model Misalignment and Language Change: Traces of AI-Associated Language in Unscripted Spoken English</dc:title>
+        <dcterms:abstract>In recent years, written language, particularly in science and education, has undergone remarkable shifts in word usage. These changes are widely attributed to the growing influence of Large Language Models (LLMs), which frequently rely on a distinct lexical style. Divergences between model output and target audience norms can be viewed as a form of misalignment. While these shifts are often linked to using Artificial Intelligence (AI) directly as a tool to generate text, it remains unclear whether the changes reflect broader changes in the human language system itself. To explore this question, we constructed a dataset of 22.1 million words from unscripted spoken language drawn from conversational science and technology podcasts. We analyzed lexical trends before and after ChatGPT's release in 2022, focusing on commonly LLM-associated words. Our results show a moderate yet significant increase in the usage of these words post-2022, suggesting a convergence between human word choices and LLM-associated patterns. In contrast, baseline synonym words exhibit no significant directional shift. Given the short time frame and the number of words affected, this may indicate the onset of a remarkable shift in language use. Whether this represents natural language change or a novel shift driven by AI exposure remains an open question. Similarly, although the shifts may stem from broader adoption patterns, it may also be that upstream training misalignments ultimately contribute to changes in human language use. These findings parallel ethical concerns that misaligned models may shape social and moral beliefs.</dcterms:abstract>
+        <dc:date>2025-08-01</dc:date>
+        <z:shortTitle>Model Misalignment and Language Change</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2508.00238</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:13:41</dcterms:dateSubmitted>
+        <dc:description>arXiv:2508.00238 [cs]</dc:description>
+        <dc:identifier>DOI 10.48550/arXiv.2508.00238</dc:identifier>
+        <prism:number>arXiv:2508.00238</prism:number>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_130">
+        <rdf:value>Comment: Accepted at AIES 2025. To appear in the AIES Proceedings. 14 pages, 2 figures, 2 tables. Licensed under CC BY-SA 4.0</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_131">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/131/Anderson et al. - 2025 - Model Misalignment and Language Change Traces of AI-Associated Language in Unscripted Spoken Englis.pdf"/>
+        <dc:title>Preprint PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/pdf/2508.00238v1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:13:43</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_132">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/132/2508.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2508.00238</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:13:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.fastcompany.com/91398460/ai-is-quietly-reshaping-the-way-we-talk">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Fast Company</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dey</foaf:surname>
+                        <foaf:givenName>Victor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_134"/>
+        <dc:title>AI is quietly reshaping the way we talk</dc:title>
+        <dcterms:abstract>New research shows large language models are seeding buzzwords into everyday speech.</dcterms:abstract>
+        <dc:date>2025-09-05T11:00:00+00:00</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.fastcompany.com/91398460/ai-is-quietly-reshaping-the-way-we-talk</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:14:30</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_134">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/134/ai-is-quietly-reshaping-the-way-we-talk.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.fastcompany.com/91398460/ai-is-quietly-reshaping-the-way-we-talk</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:14:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://singularityhub.com/2024/11/21/droidspeak-ai-agents-now-have-their-own-language-thanks-to-microsoft/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>SingularityHub</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gent</foaf:surname>
+                        <foaf:givenName>Edd</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>'Droidspeak': AI Agents Now Have Their Own Language Thanks to Microsoft</dc:title>
+        <dcterms:abstract>It seems likely this is just the first step towards a future in which the diversity of machine languages rivals that of human ones.</dcterms:abstract>
+        <dc:date>2024-11-21T13:04:59-08:00</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>'Droidspeak'</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://singularityhub.com/2024/11/21/droidspeak-ai-agents-now-have-their-own-language-thanks-to-microsoft/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:15:03</dcterms:dateSubmitted>
+    </bib:Document>
+    <rdf:Description rdf:about="https://en.wikipedia.org/w/index.php?title=Language_creation_in_artificial_intelligence&amp;oldid=1322694033">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>Wikipedia</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_137"/>
+        <dc:title>Language creation in artificial intelligence</dc:title>
+        <dcterms:abstract>In Artificial Intelligence, researchers teach AI systems to develop their own ways of communicating by having them work together on tasks and use symbols as parts of a new language. These languages might grow out of human languages or be built completely from scratch. When AI is used for translating between languages, it can even create a new shared language to make the process easier. Natural Language Processing (NLP) helps these systems understand and generate human-like language, making it possible for AI to interact and communicate more naturally with people.</dcterms:abstract>
+        <dc:date>2025-11-17T17:03:22Z</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Wikipedia</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://en.wikipedia.org/w/index.php?title=Language_creation_in_artificial_intelligence&amp;oldid=1322694033</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:15:25</dcterms:dateSubmitted>
+        <dc:rights>Creative Commons Attribution-ShareAlike License</dc:rights>
+        <dc:description>Page Version ID: 1322694033</dc:description>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_137">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/137/index.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://en.wikipedia.org/w/index.php?title=Language_creation_in_artificial_intelligence&amp;oldid=1322694033</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:15:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://medium.com/improv-in-words/if-ai-speaks-its-own-language-9a4c3c6626c8">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Improv in Words</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Jeff R. Hale, Ph.D</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_139"/>
+        <dc:title>If AI speaks its own language . . .</dc:title>
+        <dcterms:abstract>What’s next?</dcterms:abstract>
+        <dc:date>2025-03-15T09:26:10.937Z</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://medium.com/improv-in-words/if-ai-speaks-its-own-language-9a4c3c6626c8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:16:13</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_139">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/139/if-ai-speaks-its-own-language-9a4c3c6626c8.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://medium.com/improv-in-words/if-ai-speaks-its-own-language-9a4c3c6626c8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:16:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pmc.ncbi.nlm.nih.gov/articles/PMC10073210/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2045-2322"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hohenstein</foaf:surname>
+                        <foaf:givenName>Jess</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kizilcec</foaf:surname>
+                        <foaf:givenName>Rene F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>DiFranzo</foaf:surname>
+                        <foaf:givenName>Dominic</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aghajari</foaf:surname>
+                        <foaf:givenName>Zhila</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mieczkowski</foaf:surname>
+                        <foaf:givenName>Hannah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Levy</foaf:surname>
+                        <foaf:givenName>Karen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naaman</foaf:surname>
+                        <foaf:givenName>Mor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hancock</foaf:surname>
+                        <foaf:givenName>Jeffrey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jung</foaf:surname>
+                        <foaf:givenName>Malte F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_141"/>
+        <link:link rdf:resource="#item_142"/>
+        <dc:title>Artificial intelligence in communication impacts language and social relationships</dc:title>
+        <dcterms:abstract>Artificial intelligence (AI) is already widely used in daily communication, but despite concerns about AI’s negative effects on society the social consequences of using it to communicate remain largely unexplored. We investigate the social consequences of one of the most pervasive AI applications, algorithmic response suggestions (“smart replies”), which are used to send billions of messages each day. Two randomized experiments provide evidence that these types of algorithmic recommender systems change how people interact with and perceive one another in both pro-social and anti-social ways. We find that using algorithmic responses changes language and social relationships. More specifically, it increases communication speed, use of positive emotional language, and conversation partners evaluate each other as closer and more cooperative. However, consistent with common assumptions about the adverse effects of AI, people are evaluated more negatively if they are suspected to be using algorithmic responses. Thus, even though AI can increase the speed of communication and improve interpersonal perceptions, the prevailing anti-social connotations of AI undermine these potential benefits if used overtly.</dcterms:abstract>
+        <dc:date>2023-4-4</dc:date>
+        <z:libraryCatalog>PubMed Central</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC10073210/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:19:39</dcterms:dateSubmitted>
+        <dc:description>PMID: 37015964
+PMCID: PMC10073210</dc:description>
+        <bib:pages>5487</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2045-2322">
+        <prism:volume>13</prism:volume>
+        <dc:title>Scientific Reports</dc:title>
+        <dc:identifier>DOI 10.1038/s41598-023-30938-9</dc:identifier>
+        <dcterms:alternative>Sci Rep</dcterms:alternative>
+        <dc:identifier>ISSN 2045-2322</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_141">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Catalog Page</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC10073210/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:19:39</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_142">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/142/Hohenstein et al. - 2023 - Artificial intelligence in communication impacts language and social relationships.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC10073210/pdf/41598_2023_Article_30938.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:19:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.yahoo.com/news/articles/report-reveals-chatgpt-distinctive-vocabulary-153529518.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Yahoo News</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_144"/>
+        <dc:title>New report reveals ChatGPT’s distinctive vocabulary is seeping into spontaneous human speech.</dc:title>
+        <dcterms:abstract>Researchers have discovered that ChatGPT’s distinctive vocabulary is seeping into spontaneous human speech.</dcterms:abstract>
+        <dc:date>2025-09-04</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.yahoo.com/news/articles/report-reveals-chatgpt-distinctive-vocabulary-153529518.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:20:36</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_144">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/144/report-reveals-chatgpt-distinctive-vocabulary-153529518.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.yahoo.com/news/articles/report-reveals-chatgpt-distinctive-vocabulary-153529518.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-12-13 22:20:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>

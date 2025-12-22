@@ -32,7 +32,7 @@
     "_templates/paper-template.md"
   ],
   "startup_templates": [
-    ""
+    "_templates/paper-template.md"
   ],
   "intellisense_render": 1
 }

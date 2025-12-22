@@ -8,7 +8,7 @@
   "exportFormats": [
     {
       "name": "Paper Note",
-      "outputPathTemplate": "Research/Papers/{{citekey}}.md",
+      "outputPathTemplate": "Research/Papers/AI-effect-on-Language/{{citekey}}.md",
       "imageOutputPathTemplate": "_assets/{{citekey}}/",
       "imageBaseNameTemplate": "image",
       "cslStyle": "apa",

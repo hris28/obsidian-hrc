@@ -2,5 +2,7 @@
   "obsidian-zotero-desktop-connector",
   "templater-obsidian",
   "obsidian-pandoc-reference-list",
-  "obsidian-meta-bind-plugin"
+  "obsidian-meta-bind-plugin",
+  "obsidian-kanban",
+  "better-export-pdf"
 ]
