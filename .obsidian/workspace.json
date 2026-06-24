@@ -4,34 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8552f580200c1844",
+        "id": "b78b50836b9e1c17",
         "type": "tabs",
         "children": [
           {
-            "id": "a8ddbace2dda6bb2",
+            "id": "23a531c68b922852",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/AI - How it works.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AI - How it works"
-            }
-          },
-          {
-            "id": "20d5566647b3d411",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Research/Papers/AI-effect-on-Language/Anderson et al. - 2025 - Model Misalignment and Language Change Traces of AI-Associated Language in Unscripted Spoken Englis.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Anderson et al. - 2025 - Model Misalignment and Language Change Traces of AI-Associated Language in Unscripted Spoken Englis"
+              "title": "New tab"
             }
           }
         ]
@@ -91,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 320.5
   },
   "right": {
     "id": "cb6195705cbba88f",
@@ -179,20 +162,31 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a8ddbace2dda6bb2",
+  "active": "bc303b8c91c301af",
   "lastOpenFiles": [
+    "_assets/Pasted image 20251212101326.png",
+    "_assets/Pasted image 20260615172452.png",
+    "_assets/Pasted image 20260615171534.png",
+    "_assets/Pasted image 20251212101321.png",
+    "_assets/Pasted image 20251125120206.png",
     "Research/Papers/AI-effect-on-Language/Anderson et al. - 2025 - Model Misalignment and Language Change Traces of AI-Associated Language in Unscripted Spoken Englis.pdf",
-    "Research/Papers/AI-effect-on-Language/2025NewReportRevealsChatGPTsa.md",
+    "Notes/Obsidian Help.md",
+    "Notes/Vocab.md",
+    "Notes/Zotero Integration Template Explanation.md",
+    "Research/AI-influenced-language/0_Inbox.md",
     "Research/Papers/AI-effect-on-Language/2025LanguageCreationArtificialIntelligence.md",
-    "Research/Papers/AI-effect-on-Language/Anderson2025ModelMisalignmentLanguageChange.md",
-    "Research/Papers/AI-effect-on-Language/Galpin2025ExploringStructureAIInducedLanguage.md",
+    "DND/Mithe Demacia Khol.md",
+    "Classes/AI_PostTask_Questionnaire.qsf.md",
+    "Notes/FHIR.md",
     "Notes/Grad Funding.md",
     "Notes/AI - How it works.md",
+    "Research/Papers/AI-effect-on-Language/2025NewReportRevealsChatGPTsa.md",
+    "Research/Papers/AI-effect-on-Language/Anderson2025ModelMisalignmentLanguageChange.md",
+    "Research/Papers/AI-effect-on-Language/Galpin2025ExploringStructureAIInducedLanguage.md",
     "Research/AI-influenced-language/4_Excluded.md",
     "Research/AI-influenced-language/3_Included_Core.md",
     "Research/AI-influenced-language/2_FullText_Screen.md",
     "Research/AI-influenced-language/1_TitleAbstract_Screen.md",
-    "Research/AI-influenced-language/0_Inbox.md",
     "Untitled.md",
     "Research/Papers/moreAIpapers/Wu2022UBrainUnaryBrainComputer.md",
     "Research/AI-influenced-language/5_Precursor_Pre2022.md",
@@ -204,20 +198,11 @@
     "Research/Papers/AI-effect-on-Language/Dey2025AIQuietlyReshapingWay.md",
     "Research/Papers/AI-effect-on-Language/Harris2025OnscreenNowIRLFSU.md",
     "Research/Papers/moreAIpapers/Costello2023BalancingMemorizationGeneralizationRNNs.md",
-    "Research/Papers/AI-effect-on-Language/RamirezChatGPTChangingWordsWe.md",
-    "Research/Papers/AI-effect-on-Language/Provencher2025CreatingCommonLanguage.md",
-    "Research/Papers/AI-effect-on-Language/PhD2025AuthenticityDeficitAIDiluting.md",
-    "Research/Papers/AI-effect-on-Language/Hohenstein2023ArtificialIntelligenceCommunicationImpacts.md",
-    "Research/Papers/AI-effect-on-Language/Gent2024DroidspeakAIAgentsNow.md",
-    "Research/Papers/AI-effect-on-Language/App2025HowAIShapesWay.md",
     "Research/Papers/AI-effect-on-Language/files/144/report-reveals-chatgpt-distinctive-vocabulary-153529518.html",
     "Research/Papers/AI-effect-on-Language/Hohenstein et al. - 2023 - Artificial intelligence in communication impacts language and social relationships.pdf",
     "Research/Papers/AI-effect-on-Language/files/139/if-ai-speaks-its-own-language-9a4c3c6626c8.html",
     "Research/Papers/AI-effect-on-Language/files/137/index.html",
     "Research/Papers/AI-effect-on-Language/files/134/ai-is-quietly-reshaping-the-way-we-talk.html",
-    "Research/Papers/AI-effect-on-Language/files/132/2508.html",
-    "_assets/Pasted image 20251212101326.png",
-    "_assets/Pasted image 20251212101321.png",
-    "_assets/Pasted image 20251125120206.png"
+    "Research/Papers/AI-effect-on-Language/files/132/2508.html"
   ]
 }
